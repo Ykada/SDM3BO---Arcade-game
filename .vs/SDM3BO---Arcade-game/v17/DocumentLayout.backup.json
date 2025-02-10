@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MA\\bewijsmap\\periode 1.3\\BO\\SDM3BO---Arcade-game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54708ADF-F142-24EC-43B1-7D3122CDCA59}|Assembly-CSharp.csproj|C:\\MA\\bewijsmap\\periode 1.3\\BO\\SDM3BO---Arcade-game\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54708ADF-F142-24EC-43B1-7D3122CDCA59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54708ADF-F142-24EC-43B1-7D3122CDCA59}|Assembly-CSharp.csproj|c:\\ma\\bewijsmap\\periode 1.3\\bo\\sdm3bo---arcade-game\\assets\\scripts\\jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54708ADF-F142-24EC-43B1-7D3122CDCA59}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jump.cs",
+              "DocumentMoniker": "C:\\MA\\bewijsmap\\periode 1.3\\BO\\SDM3BO---Arcade-game\\Assets\\Scripts\\Jump.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Jump.cs",
+              "ToolTip": "C:\\MA\\bewijsmap\\periode 1.3\\BO\\SDM3BO---Arcade-game\\Assets\\Scripts\\Jump.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Jump.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:38:09.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "C:\\MA\\bewijsmap\\periode 1.3\\BO\\SDM3BO---Arcade-game\\Assets\\Scripts\\Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement.cs",
+              "ToolTip": "C:\\MA\\bewijsmap\\periode 1.3\\BO\\SDM3BO---Arcade-game\\Assets\\Scripts\\Movement.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\Movement.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T14:36:19.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
