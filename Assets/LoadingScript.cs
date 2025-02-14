@@ -5,7 +5,7 @@ using UnityEngine.UIElements;
 
 public class UILoading : MonoBehaviour
 {
-    public Canvas loadSingCanvas;
+    public Canvas loadCanvas;
     public GameObject loadingMap;
     public Text loadingText;
     public float CompilingDuration = 1f;
@@ -20,7 +20,7 @@ public class UILoading : MonoBehaviour
 
     private IEnumerator LoadAndDisplay()
     {
-        loadSingCanvas.gameObject.SetActive(true);
+        loadCanvas.gameObject.SetActive(true);
         loadingMap.gameObject.SetActive(true);
         float timeElapsed = 0f;
 
