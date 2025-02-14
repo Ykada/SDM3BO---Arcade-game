@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
+  m_SkyboxMaterial: {fileID: 2100000, guid: ba6cba86ccdbfc6458bb72e48df46552, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -1023,6 +1023,7 @@ GameObject:
   - component: {fileID: 1390232483}
   - component: {fileID: 1390232482}
   - component: {fileID: 1390232481}
+  - component: {fileID: 1390232484}
   m_Layer: 0
   m_Name: Terrain
   m_TagString: Untagged
@@ -1077,7 +1078,7 @@ Terrain:
   m_StaticShadowCaster: 0
   m_IgnoreQualitySettings: 0
   m_ReflectionProbeUsage: 1
-  m_MaterialTemplate: {fileID: 10652, guid: 0000000000000000f000000000000000, type: 0}
+  m_MaterialTemplate: {fileID: 2100000, guid: d6532a2578c89a148b94c3acd647ad0c, type: 2}
   m_BakeLightProbesForTrees: 1
   m_PreserveTreePrototypeLayers: 0
   m_DeringLightProbesForTrees: 1
@@ -1105,6 +1106,41 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1390232484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1390232480}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8586f53b24d3214aafba3a1ef03948e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _legacyInputSystem: {fileID: 0}
+  _newInputSystem: {fileID: 0}
+  _standardLighting: {fileID: 0}
+  _standardSky: {fileID: 2100000, guid: ba6cba86ccdbfc6458bb72e48df46552, type: 2}
+  _standardTerrain: {fileID: 2100000, guid: d6532a2578c89a148b94c3acd647ad0c, type: 2}
+  _standardVolume: {fileID: 0}
+  _standardLineMaterial: {fileID: 0}
+  _standardCameraIconMaterial: {fileID: 0}
+  _standardPaintDecal: {fileID: 0}
+  _universalLighting: {fileID: 0}
+  _universalSky: {fileID: 2100000, guid: 4eaec2a2266e50b4d865fafeaa7f6141, type: 2}
+  _universalTerrain: {fileID: 2100000, guid: 0e7aa49ac539c95448c6a361a634e133, type: 2}
+  _universalVolume: {fileID: 0}
+  _universalLineMaterial: {fileID: 0}
+  _universalCameraIconMaterial: {fileID: 0}
+  _universalPaintDecal: {fileID: 0}
+  _highDefinitionLighting: {fileID: 0}
+  _highDefinitionSky: {fileID: 2100000, guid: 2245a35b69b0fbe4196efe99da6082bc, type: 2}
+  _highDefinitionVolume: {fileID: 0}
+  _highDefinitionTerrain: {fileID: 0}
+  _highDefinitionLineMaterial: {fileID: 0}
+  _highDefinitionCameraIconMaterial: {fileID: 0}
+  _highDefinitionPaintDecal: {fileID: 0}
 --- !u!1001 &1535616413
 PrefabInstance:
   m_ObjectHideFlags: 0
