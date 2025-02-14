@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.3\\Code\\Unity\\SDM3BO - Arcade game\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5C2C49F3-359E-DF3D-E572-61F8D3ED05C5}|Assembly-CSharp.csproj|c:\\users\\ykada\\onedrive - mediacollege amsterdam\\schooljaar1\\j 1.3\\code\\unity\\sdm3bo - arcade game\\assets\\dynamic snow system\\scripts\\groundpaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2C49F3-359E-DF3D-E572-61F8D3ED05C5}|Assembly-CSharp.csproj|solutionrelative:assets\\dynamic snow system\\scripts\\groundpaint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2C49F3-359E-DF3D-E572-61F8D3ED05C5}|Assembly-CSharp.csproj|c:\\users\\ykada\\onedrive - mediacollege amsterdam\\schooljaar1\\j 1.3\\code\\unity\\sdm3bo - arcade game\\assets\\visual design cafe\\nature renderer demo\\scripts\\renderpipelinelighting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2C49F3-359E-DF3D-E572-61F8D3ED05C5}|Assembly-CSharp.csproj|solutionrelative:assets\\visual design cafe\\nature renderer demo\\scripts\\renderpipelinelighting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C2C49F3-359E-DF3D-E572-61F8D3ED05C5}|Assembly-CSharp.csproj|C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.3\\Code\\Unity\\SDM3BO - Arcade game\\assets\\breadcrumbai\\examples\\demo\\scripts\\demoplayercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C2C49F3-359E-DF3D-E572-61F8D3ED05C5}|Assembly-CSharp.csproj|solutionrelative:assets\\breadcrumbai\\examples\\demo\\scripts\\demoplayercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5C2C49F3-359E-DF3D-E572-61F8D3ED05C5}|Assembly-CSharp.csproj|C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.3\\Code\\Unity\\SDM3BO - Arcade game\\assets\\loadingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C2C49F3-359E-DF3D-E572-61F8D3ED05C5}|Assembly-CSharp.csproj|solutionrelative:assets\\loadingscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C2C49F3-359E-DF3D-E572-61F8D3ED05C5}|Assembly-CSharp.csproj|c:\\users\\ykada\\onedrive - mediacollege amsterdam\\schooljaar1\\j 1.3\\code\\unity\\sdm3bo - arcade game\\assets\\uistarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C2C49F3-359E-DF3D-E572-61F8D3ED05C5}|Assembly-CSharp.csproj|C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.3\\Code\\Unity\\SDM3BO - Arcade game\\assets\\uistarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C2C49F3-359E-DF3D-E572-61F8D3ED05C5}|Assembly-CSharp.csproj|solutionrelative:assets\\uistarter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,11 +34,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroundPaint.cs",
+              "DocumentMoniker": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.3\\Code\\Unity\\SDM3BO - Arcade game\\Assets\\Dynamic Snow System\\Scripts\\GroundPaint.cs",
+              "RelativeDocumentMoniker": "Assets\\Dynamic Snow System\\Scripts\\GroundPaint.cs",
+              "ToolTip": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.3\\Code\\Unity\\SDM3BO - Arcade game\\Assets\\Dynamic Snow System\\Scripts\\GroundPaint.cs",
+              "RelativeToolTip": "Assets\\Dynamic Snow System\\Scripts\\GroundPaint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:39:52.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "RenderPipelineLighting.cs",
+              "DocumentMoniker": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.3\\Code\\Unity\\SDM3BO - Arcade game\\Assets\\Visual Design Cafe\\Nature Renderer Demo\\Scripts\\RenderPipelineLighting.cs",
+              "RelativeDocumentMoniker": "Assets\\Visual Design Cafe\\Nature Renderer Demo\\Scripts\\RenderPipelineLighting.cs",
+              "ToolTip": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.3\\Code\\Unity\\SDM3BO - Arcade game\\Assets\\Visual Design Cafe\\Nature Renderer Demo\\Scripts\\RenderPipelineLighting.cs",
+              "RelativeToolTip": "Assets\\Visual Design Cafe\\Nature Renderer Demo\\Scripts\\RenderPipelineLighting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T11:26:54.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoPlayerControls.cs",
+              "DocumentMoniker": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.3\\Code\\Unity\\SDM3BO - Arcade game\\Assets\\BreadcrumbAi\\Examples\\Demo\\Scripts\\DemoPlayerControls.cs",
+              "RelativeDocumentMoniker": "Assets\\BreadcrumbAi\\Examples\\Demo\\Scripts\\DemoPlayerControls.cs",
+              "ToolTip": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.3\\Code\\Unity\\SDM3BO - Arcade game\\Assets\\BreadcrumbAi\\Examples\\Demo\\Scripts\\DemoPlayerControls.cs",
+              "RelativeToolTip": "Assets\\BreadcrumbAi\\Examples\\Demo\\Scripts\\DemoPlayerControls.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAIwH4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:52:38.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UiStarter.cs",
               "DocumentMoniker": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.3\\Code\\Unity\\SDM3BO - Arcade game\\Assets\\UiStarter.cs",
               "RelativeDocumentMoniker": "Assets\\UiStarter.cs",
@@ -34,12 +84,11 @@
               "RelativeToolTip": "Assets\\UiStarter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T09:12:38.317Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-14T09:12:38.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UIAnabler.cs",
               "DocumentMoniker": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.3\\Code\\Unity\\SDM3BO - Arcade game\\Assets\\UIAnabler.cs",
               "RelativeDocumentMoniker": "Assets\\UIAnabler.cs",
@@ -50,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "LoadingScript.cs",
               "DocumentMoniker": "C:\\Users\\Ykada\\OneDrive - Mediacollege Amsterdam\\Schooljaar1\\J 1.3\\Code\\Unity\\SDM3BO - Arcade game\\Assets\\LoadingScript.cs",
               "RelativeDocumentMoniker": "Assets\\LoadingScript.cs",
@@ -58,8 +107,7 @@
               "RelativeToolTip": "Assets\\LoadingScript.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T09:08:30.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T09:08:30.494Z"
             }
           ]
         }
