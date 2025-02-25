@@ -75,6 +75,7 @@
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Editor\Monitors\VectorscopeMonitor.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Editor\Monitors\WaveformMonitor.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Editor\PropertyDrawers\TrackballGroupDrawer.cs" />
+    <Compile Include="Assets\RainMaker\Editor\RainMakerEditor.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Editor\Models\ChromaticAberrationEditor.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Editor\Models\EyeAdaptationModelEditor.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Editor\PostProcessingModelEditor.cs" />
@@ -84,6 +85,9 @@
     <Compile Include="Assets\Visual Design Cafe\Nature Renderer Demo\Scripts\Editor\DemoShaderImporter.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Editor\Models\DepthOfFieldModelEditor.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Editor\PropertyDrawers\GetSetDrawer.cs" />
+    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\EDITOR\NoiseVolumeEditor.cs" />
+    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\EDITOR\TenkokuModuleEditor.cs" />
+    <Compile Include="Assets\Flooded_Grounds\Scenes\IgniteCoders\Simple Water Shader\Info\Scripts\Editor\ReadmeEditor.cs" />
     <Compile Include="Assets\BreadcrumbAi\Ai\Editor\BreadcrumbEditor.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Editor\Models\AntialiasingModelEditor.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Editor\Utils\CurveEditor.cs" />
@@ -95,7 +99,6 @@
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Editor\Monitors\HistogramMonitor.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Editor\PostProcessingBehaviourEditor.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Editor\Utils\EditorResources.cs" />
-    <Compile Include="Assets\IgniteCoders\Simple Water Shader\Info\Scripts\Editor\ReadmeEditor.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Editor\Models\FogModelEditor.cs" />
   </ItemGroup>
   <ItemGroup>
