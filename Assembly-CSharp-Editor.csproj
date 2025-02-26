@@ -65,6 +65,7 @@
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Editor\Utils\EditorGUIHelper.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Editor\Models\ColorGradingModelEditor.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Editor\PostProcessingFactory.cs" />
+    <Compile Include="Assets\PolygonPi\FenceLayout\Editor\FenceLayoutEditor.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Editor\PostProcessingInspector.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Editor\Models\UserLutModelEditor.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Editor\Models\BuiltinDebugViewsEditor.cs" />
@@ -1159,6 +1160,10 @@
       <Project>{34A6E590-D064-94B4-183A-841B69D0CD38}</Project>
       <Name>Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection</Name>
     </ProjectReference>
+    <ProjectReference Include="sc.terrain.painter.runtime.csproj">
+      <Project>{530626A8-4B62-7B1D-51D1-2AEAC0375F1C}</Project>
+      <Name>sc.terrain.painter.runtime</Name>
+    </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
       <Project>{F108A61F-327E-2B90-E4E5-A2108F6BA032}</Project>
       <Name>UnityEngine.UI</Name>
@@ -1234,6 +1239,10 @@
     <ProjectReference Include="Unity.VSCode.Editor.csproj">
       <Project>{AA1EAEBB-C681-B8D4-6FA9-7D051A6AB69D}</Project>
       <Name>Unity.VSCode.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="sc.terrain.painter.editor.csproj">
+      <Project>{ACB7AF72-98B5-54D5-F043-C2C22281B5C4}</Project>
+      <Name>sc.terrain.painter.editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Flow.csproj">
       <Project>{C2D42C39-D0B8-F6E4-BD91-B2CB09E8372A}</Project>

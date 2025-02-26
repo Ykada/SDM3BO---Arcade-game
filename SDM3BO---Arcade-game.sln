@@ -55,6 +55,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.TestTools.CodeCoverag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Settings.Editor", "Unity.Settings.Editor.csproj", "{77E65195-6A85-5D08-45B8-344ADB75683F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sc.terrain.painter.runtime", "sc.terrain.painter.runtime.csproj", "{530626A8-4B62-7B1D-51D1-2AEAC0375F1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sc.terrain.painter.editor", "sc.terrain.painter.editor.csproj", "{ACB7AF72-98B5-54D5-F043-C2C22281B5C4}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.EditorCoroutines.Editor", "Unity.EditorCoroutines.Editor.csproj", "{E807354F-8F0D-F3BE-BFE0-8BE6A903BF87}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.VisualScripting.Shared.Editor", "Unity.VisualScripting.Shared.Editor.csproj", "{4744EE15-5892-90C1-D0BD-D1CB7290CEB7}"
@@ -74,6 +78,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.VisualScripting.State", "Unity.VisualScripting.State.Player.csproj", "{5806AE33-FAE2-FAE5-829A-FDC4A467AFA3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.TextMeshPro", "Unity.TextMeshPro.Player.csproj", "{C5DBB63A-EC13-35F1-4E9D-8040A83F32B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sc.terrain.painter.runtime", "sc.terrain.painter.runtime.Player.csproj", "{6F97A8B4-19D1-628E-9D30-D664E54557AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +195,14 @@ Global
 		{77E65195-6A85-5D08-45B8-344ADB75683F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77E65195-6A85-5D08-45B8-344ADB75683F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77E65195-6A85-5D08-45B8-344ADB75683F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{530626A8-4B62-7B1D-51D1-2AEAC0375F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{530626A8-4B62-7B1D-51D1-2AEAC0375F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{530626A8-4B62-7B1D-51D1-2AEAC0375F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{530626A8-4B62-7B1D-51D1-2AEAC0375F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACB7AF72-98B5-54D5-F043-C2C22281B5C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB7AF72-98B5-54D5-F043-C2C22281B5C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB7AF72-98B5-54D5-F043-C2C22281B5C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB7AF72-98B5-54D5-F043-C2C22281B5C4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E807354F-8F0D-F3BE-BFE0-8BE6A903BF87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E807354F-8F0D-F3BE-BFE0-8BE6A903BF87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E807354F-8F0D-F3BE-BFE0-8BE6A903BF87}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -229,6 +243,10 @@ Global
 		{C5DBB63A-EC13-35F1-4E9D-8040A83F32B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5DBB63A-EC13-35F1-4E9D-8040A83F32B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5DBB63A-EC13-35F1-4E9D-8040A83F32B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F97A8B4-19D1-628E-9D30-D664E54557AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F97A8B4-19D1-628E-9D30-D664E54557AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F97A8B4-19D1-628E-9D30-D664E54557AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F97A8B4-19D1-628E-9D30-D664E54557AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
