@@ -5,9 +5,11 @@ using UnityEngine.UIElements;
 
 public class UILoading : MonoBehaviour
 {
+    public Canvas loadCanvas;
+    public GameObject loadingMap;
     public Text loadingText;
-    public float CompilingDuration = 15f;
-    public float loadingDuration = 5f;
+    public float CompilingDuration = 1f;
+    public float loadingDuration = 1f;
     public Canvas loadingCanvas;
     public Canvas MainUiCanvas;
 
@@ -18,6 +20,8 @@ public class UILoading : MonoBehaviour
 
     private IEnumerator LoadAndDisplay()
     {
+        loadCanvas.gameObject.SetActive(true);
+        loadingMap.gameObject.SetActive(true);
         float timeElapsed = 0f;
 
         while (timeElapsed < CompilingDuration)
