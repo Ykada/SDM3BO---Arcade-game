@@ -473,6 +473,7 @@ public class FirstPersonController : MonoBehaviour
         {
             Crouch();
         }
+
     }
 
     private void Crouch()
