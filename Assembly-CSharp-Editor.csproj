@@ -1156,13 +1156,13 @@
       <Project>{FDA8C3C9-88E5-D91A-8A17-3C98AF683263}</Project>
       <Name>Unity.Timeline</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj">
-      <Project>{34A6E590-D064-94B4-183A-841B69D0CD38}</Project>
-      <Name>Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection</Name>
-    </ProjectReference>
     <ProjectReference Include="sc.terrain.painter.runtime.csproj">
       <Project>{530626A8-4B62-7B1D-51D1-2AEAC0375F1C}</Project>
       <Name>sc.terrain.painter.runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj">
+      <Project>{34A6E590-D064-94B4-183A-841B69D0CD38}</Project>
+      <Name>Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
       <Project>{F108A61F-327E-2B90-E4E5-A2108F6BA032}</Project>
