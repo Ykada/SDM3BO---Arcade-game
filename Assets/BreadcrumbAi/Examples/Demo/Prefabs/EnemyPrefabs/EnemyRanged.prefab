@@ -128,8 +128,8 @@ MonoBehaviour:
     audio_dead_2: {fileID: 8300000, guid: 695ee3dca61504441b8370e666c43931, type: 3}
     audio_melee_attack_1: {fileID: 0}
     audio_melee_attack_2: {fileID: 0}
-  healthPickUpPrefab: {fileID: 0}
-  _canDropPickUp: 0
+  healthPickUpPrefab: {fileID: 100002, guid: eedb33b74784ef74784d741fb2ea0f20, type: 3}
+  _canDropPickUp: 1
   enemyType: 0
   rangedProjectilePrefab: {fileID: 5400000, guid: be253b20856b13f4f929eccaedac0db3, type: 3}
   bloodPrefab: {fileID: 100002, guid: 17ea22ea8413fb448a0d2edccb9329c5, type: 3}
@@ -585,6 +585,10 @@ PrefabInstance:
     - target: {fileID: 7317118214247041293, guid: 16f88bac483bd004aa718dd62225897d, type: 3}
       propertyPath: m_Layer
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7317118214247041293, guid: 16f88bac483bd004aa718dd62225897d, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
       objectReference: {fileID: 0}
     - target: {fileID: 7317118214247041295, guid: 16f88bac483bd004aa718dd62225897d, type: 3}
       propertyPath: m_Layer

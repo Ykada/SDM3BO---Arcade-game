@@ -51,7 +51,7 @@ public class DemoEnemyControls : MonoBehaviour {
 	
 	void Update () {
 		CheckHealth();
-		CheckDeathZone();
+
 	}
 	
 	void FixedUpdate(){
@@ -146,7 +146,7 @@ public class DemoEnemyControls : MonoBehaviour {
 				} else {
 					score.ScorePoint(15);
 				}
-				_pointScored = true;
+				_pointScored = false;
 			}
 			if(_canDropPickUp){
 				float rand = Random.value;

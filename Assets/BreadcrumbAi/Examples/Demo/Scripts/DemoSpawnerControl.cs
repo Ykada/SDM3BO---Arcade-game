@@ -7,7 +7,7 @@ public class DemoSpawnerControl : MonoBehaviour {
 	public GameObject enemyMeleePrefab, enemyRangedPrefab, enemySpecialPrefab;
 	[HideInInspector]public int enemyCount, specialEnemyCount;
 	
-	private const int maxEnemyCount = 25;
+	private const int maxEnemyCount = 35;
 	private float spawnMeleeNext = 0.0f;
 	private float spawnMeleeRate = 1.0f;
 	
