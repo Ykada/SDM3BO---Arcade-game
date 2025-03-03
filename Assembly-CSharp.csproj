@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{54708ADF-F142-24EC-43B1-7D3122CDCA59}</ProjectGuid>
+    <ProjectGuid>{5C2C49F3-359E-DF3D-E572-61F8D3ED05C5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -60,63 +60,33 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.46f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\NoiseTools\PerlinNoise.cs" />
-    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\_DEMO\SCRIPTS\ui_devFPS.cs" />
-    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\NoiseTools\NoiseVolume.cs" />
-    <Compile Include="Assets\Visual Design Cafe\Nature Renderer Demo\Scripts\CloneTerrain.cs" />
     <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\NoiseTools\XXHash.cs" />
+    <Compile Include="Assets\Visual Design Cafe\Nature Renderer Demo\Scripts\CloneTerrain.cs" />
     <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\TenkokuGlobalSound.cs" />
-    <Compile Include="Assets\BreadcrumbAi\Examples\Demo\Scripts\DemoGrenadeExplode.cs" />
-    <Compile Include="Assets\Dynamic Snow System\Scripts\GroundPaint.cs" />
-    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Models\BloomModel.cs" />
-    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\_DEMO\SCRIPTS\CONTROLLER\ten_demo_InputController.cs" />
-    <Compile Include="Assets\Flooded_Grounds\Scenes\IgniteCoders\Simple Water Shader\Resources\WaterReflection.cs" />
     <Compile Include="Assets\BreadcrumbAi\Examples\Demo\Scripts\DemoEnemyControls.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\PostProcessingBehaviour.cs" />
-    <Compile Include="Assets\RainMaker\Demo\DemoScriptStartRainOnSpaceBar.cs" />
-    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\ColorGradingComponent.cs" />
-    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\Tenkoku_VelocityBuffer.cs" />
-    <Compile Include="Assets\BreadcrumbAi\Examples\Demo\Scripts\DemoRemovePhysics.cs" />
     <Compile Include="Assets\Scripts\LoadingMapScript.cs" />
-    <Compile Include="Assets\RainMaker\Prefab\RainScript2D.cs" />
-    <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\Managers\UIMenuManager.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Models\MotionBlurModel.cs" />
-    <Compile Include="Assets\RainMaker\Prefab\BaseRainScript.cs" />
-    <Compile Include="Assets\RainMaker\Demo\DemoScript2D.cs" />
-    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\EyeAdaptationComponent.cs" />
-    <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\Misc\ResetDemo.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\DepthOfFieldComponent.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
-    <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\ThemeEditor\ThemedUIElement.cs" />
-    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Models\UserLutModel.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Utils\ColorGradingCurve.cs" />
     <Compile Include="Assets\Flooded_Grounds\Scripts\WaterFloat.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\PostProcessingContext.cs" />
     <Compile Include="Assets\Visual Design Cafe\Nature Renderer Demo\Scripts\RuntimeEditing.cs" />
-    <Compile Include="Assets\BreadcrumbAi\Examples\Demo\Scripts\DemoTidyBullets.cs" />
     <Compile Include="Assets\Flooded_Grounds\Scripts\DisableRenderer.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Models\GrainModel.cs" />
-    <Compile Include="Assets\Flooded_Grounds\Scripts\FPSDisplay.cs" />
     <Compile Include="Assets\Scripts\FPSCounter.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Models\VignetteModel.cs" />
     <Compile Include="Assets\BreadcrumbAi\Examples\Demo\Scripts\DemoCameraControls.cs" />
-    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
     <Compile Include="Assets\BreadcrumbAi\Ai\Scripts\AiManager.cs" />
     <Compile Include="Assets\BreadcrumbAi\Examples\Demo\Scripts\DemoPlayerControls.cs" />
-    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\NoiseTools\NoiseGeneratorBase.cs" />
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\Misc\ExtraLinks.cs" />
-    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\MotionBlurComponent.cs" />
     <Compile Include="Assets\BreadcrumbAi\Examples\Demo\Scripts\DemoGameOver.cs" />
     <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\TenkokuSkyFog.cs" />
-    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\PostProcessingModel.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Utils\GraphicsUtils.cs" />
     <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\TenkokuPostFX.cs" />
-    <Compile Include="Assets\Flooded_Grounds\Scripts\FPSController\CharController_Motor.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Models\DepthOfFieldModel.cs" />
-    <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\Managers\UISettingsManager.cs" />
-    <Compile Include="Assets\Visual Design Cafe\Nature Renderer Demo\Scripts\CompileShaders.cs" />
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\Audio\CheckSFXVolume.cs" />
-    <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Models\ColorGradingModel.cs" />
     <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\TenkokuSunShafts.cs" />
     <Compile Include="Assets\Dynamic Snow System\DEMO SCENE\SimpleCameraScript.cs" />
@@ -124,70 +94,99 @@
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\ThemeEditor\ThemedUI.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\BloomComponent.cs" />
     <Compile Include="Assets\Visual Design Cafe\Nature Renderer Demo\Scripts\OpenWebsiteButton.cs" />
-    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\TenkokuCameraTools.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\PostProcessingComponent.cs" />
-    <Compile Include="Assets\BreadcrumbAi\Ai\Scripts\Ai.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\FxaaComponent.cs" />
     <Compile Include="Assets\TENKOKU - DYNAMIC SKY\_DEMO\SCRIPTS\CONTROLLER\ten_demo_ControllerMaster.cs" />
     <Compile Include="Assets\Flooded_Grounds\Scenes\IgniteCoders\Simple Water Shader\Info\Scripts\Readme.cs" />
-    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\Tenkoku_TemporalEffectBase.cs" />
-    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
-    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\Tenkoku_TemporalReprojection.cs" />
-    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Models\ScreenSpaceReflectionModel.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\UserLutComponent.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Models\DitheringModel.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\AmbientOcclusionComponent.cs" />
-    <Compile Include="Assets\RainMaker\Demo\DemoScript.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\FogComponent.cs" />
     <Compile Include="Assets\Scripts\LoadingScript.cs" />
     <Compile Include="Assets\BreadcrumbAi\Ai\Scripts\Extras\BA_BasicFPS.cs" />
     <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\TenkokuStarData.cs" />
-    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\_DEMO\SCRIPTS\ui_tenkokuHandler.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Models\AmbientOcclusionModel.cs" />
     <Compile Include="Assets\prefabs\NewPunch\ShirtlessZombieFree\Scripts\FreeZombie_EyesGlow.cs" />
+    <Compile Include="Assets\RainMaker\Prefab\RainScript.cs" />
+    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\TenkokuLightningFX.cs" />
+    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
+    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\VignetteComponent.cs" />
+    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Attributes\TrackballGroupAttribute.cs" />
+    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\ChromaticAberrationComponent.cs" />
+    <Compile Include="Assets\ModularFirstPersonController\FirstPersonController\FirstPersonController.cs" />
+    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\Random.cs" />
+    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\ScreenSpaceReflectionComponent.cs" />
+    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Models\EyeAdaptationModel.cs" />
+    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\TenkokuCalculations.cs" />
+    <Compile Include="Assets\Dynamic Snow System\Scripts\SnowBuffer.cs" />
+    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
+    <Compile Include="Assets\Visual Design Cafe\Nature Renderer Demo\Scripts\RenderPipelineLighting.cs" />
+    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\NoiseTools\WorleyNoise.cs" />
+    <Compile Include="Assets\BreadcrumbAi\Ai\Scripts\Breadcrumbs.cs" />
+    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\NoiseTools\PerlinNoise.cs" />
+    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\_DEMO\SCRIPTS\ui_devFPS.cs" />
+    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\NoiseTools\NoiseVolume.cs" />
+    <Compile Include="Assets\Dynamic Snow System\Scripts\GroundPaint.cs" />
+    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Models\BloomModel.cs" />
+    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\_DEMO\SCRIPTS\CONTROLLER\ten_demo_InputController.cs" />
+    <Compile Include="Assets\Flooded_Grounds\Scenes\IgniteCoders\Simple Water Shader\Resources\WaterReflection.cs" />
+    <Compile Include="Assets\RainMaker\Demo\DemoScriptStartRainOnSpaceBar.cs" />
+    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\ColorGradingComponent.cs" />
+    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\Tenkoku_VelocityBuffer.cs" />
+    <Compile Include="Assets\BreadcrumbAi\Examples\Demo\Scripts\DemoRemovePhysics.cs" />
+    <Compile Include="Assets\RainMaker\Prefab\RainScript2D.cs" />
+    <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\Managers\UIMenuManager.cs" />
+    <Compile Include="Assets\RainMaker\Prefab\BaseRainScript.cs" />
+    <Compile Include="Assets\RainMaker\Demo\DemoScript2D.cs" />
+    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\EyeAdaptationComponent.cs" />
+    <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\Misc\ResetDemo.cs" />
+    <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\ThemeEditor\ThemedUIElement.cs" />
+    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Models\UserLutModel.cs" />
+    <Compile Include="Assets\BreadcrumbAi\Examples\Demo\Scripts\DemoTidyBullets.cs" />
+    <Compile Include="Assets\Flooded_Grounds\Scripts\FPSDisplay.cs" />
+    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
+    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\NoiseTools\NoiseGeneratorBase.cs" />
+    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\MotionBlurComponent.cs" />
+    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\PostProcessingModel.cs" />
+    <Compile Include="Assets\Flooded_Grounds\Scripts\FPSController\CharController_Motor.cs" />
+    <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\Managers\UISettingsManager.cs" />
+    <Compile Include="Assets\Visual Design Cafe\Nature Renderer Demo\Scripts\CompileShaders.cs" />
+    <Compile Include="Assets\Scripts\Movement.cs" />
+    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\TenkokuCameraTools.cs" />
+    <Compile Include="Assets\BreadcrumbAi\Ai\Scripts\Ai.cs" />
+    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\Tenkoku_TemporalEffectBase.cs" />
+    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
+    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\Tenkoku_TemporalReprojection.cs" />
+    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Models\ScreenSpaceReflectionModel.cs" />
+    <Compile Include="Assets\RainMaker\Demo\DemoScript.cs" />
+    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\_DEMO\SCRIPTS\ui_tenkokuHandler.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\DitheringComponent.cs" />
     <Compile Include="Assets\Scripts\UiStarter.cs" />
-    <Compile Include="Assets\RainMaker\Prefab\RainScript.cs" />
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\ThemeEditor\ThemedUIData.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\BreadcrumbAi\Examples\Demo\Scripts\DemoPickUpHealth.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Models\ChromaticAberrationModel.cs" />
     <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\ParticlePlanetHandler.cs" />
-    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\TenkokuLightningFX.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\TaaComponent.cs" />
     <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\TenkokuLib.cs" />
-    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\PostProcessingProfile.cs" />
-    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\VignetteComponent.cs" />
     <Compile Include="Assets\BreadcrumbAi\Examples\Demo\Scripts\DemoDestroyObject.cs" />
-    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Attributes\TrackballGroupAttribute.cs" />
     <Compile Include="Assets\RainMaker\Prefab\RainCollision.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\BuiltinDebugViewsComponent.cs" />
     <Compile Include="Assets\SlimUI\Modern Menu 1\Scripts\Audio\CheckMusicVolume.cs" />
-    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\ChromaticAberrationComponent.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Models\BuiltinDebugViewsModel.cs" />
-    <Compile Include="Assets\ModularFirstPersonController\FirstPersonController\FirstPersonController.cs" />
-    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\Random.cs" />
     <Compile Include="Assets\BreadcrumbAi\Examples\Demo\Scripts\DemoDestroyExplosion.cs" />
+    <Compile Include="Assets\Cold War Weapons\AK74M\Demo\CameraRotate.cs" />
     <Compile Include="Assets\BreadcrumbAi\Examples\Demo\Scripts\DemoTidySpit.cs" />
-    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\ScreenSpaceReflectionComponent.cs" />
     <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\TenkokuModule.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Models\AntialiasingModel.cs" />
     <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\ParticleStarfieldHandler.cs" />
-    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Models\EyeAdaptationModel.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Models\FogModel.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Components\GrainComponent.cs" />
-    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\TenkokuCalculations.cs" />
-    <Compile Include="Assets\Dynamic Snow System\Scripts\SnowBuffer.cs" />
     <Compile Include="Assets\Visual Design Cafe\Nature Renderer\Runtime\NatureRenderer.SRP.cs" />
-    <Compile Include="Assets\PolygonPi\FenceLayout\FenceLayout.cs" />
     <Compile Include="Assets\BreadcrumbAi\Examples\Demo\Scripts\DemoScore.cs" />
-    <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
     <Compile Include="Assets\BreadcrumbAi\Examples\Demo\Scripts\DemoSpawnerControl.cs" />
     <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\TenkokuSkyBlur.cs" />
-    <Compile Include="Assets\Visual Design Cafe\Nature Renderer Demo\Scripts\RenderPipelineLighting.cs" />
-    <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\NoiseTools\WorleyNoise.cs" />
-    <Compile Include="Assets\BreadcrumbAi\Ai\Scripts\Breadcrumbs.cs" />
     <Compile Include="Assets\Visual Design Cafe\Nature Renderer Demo\Scripts\UseReferenceCamera.cs" />
     <Compile Include="Assets\BreadcrumbAi\Examples\Demo\Scripts\DemoLightingControls.cs" />
   </ItemGroup>
@@ -223,7 +222,6 @@
     <None Include="Assets\Visual Design Cafe\Nature Renderer\Plugins\VisualDesignCafe.Rendering.Nature.Editor.dll" />
     <None Include="Assets\Visual Design Cafe\Nature Renderer Demo\Realistic\Shaders\Lit Simple HD.txt" />
     <None Include="Assets\TENKOKU - DYNAMIC SKY\SHADERS\Tenkoku_suneclipse.shader" />
-    <None Include="Assets\ProceduralTerrainPainter\Shaders\Filters.hlsl" />
     <None Include="Assets\TENKOKU - DYNAMIC SKY\SHADERS\Tenkoku_galaxy.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\Visual Design Cafe\Nature Renderer\Plugins\VisualDesignCafe.Rendering.Instancing.Editor.dll" />
@@ -232,7 +230,6 @@
     <None Include="Assets\TENKOKU - DYNAMIC SKY\SHADERS\Tenkoku_fx_particle.shader" />
     <None Include="Assets\Flooded_Grounds\PostProcessing\Resources\Shaders\AmbientOcclusion.cginc" />
     <None Include="Assets\TENKOKU - DYNAMIC SKY\SHADERS\Tenkoku_sky_elek.shader" />
-    <None Include="Assets\Assets\Hayq Art\Sci-Fi Environment and Vehicles Pack\Textures\Shaders\ToonShader.shader" />
     <None Include="Assets\TENKOKU - DYNAMIC SKY\SHADERS\Tenkoku_cloud_sphereSingle.shader" />
     <None Include="Assets\Visual Design Cafe\Package Manager\VisualDesignCafe.Editor.Community.dll" />
     <None Include="Assets\Flooded_Grounds\Resources\TreeCreator\TreeCreatorBark.shader" />
@@ -241,7 +238,6 @@
     <None Include="Assets\Visual Design Cafe\Nature Renderer\Plugins\VisualDesignCafe.Memory.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\Visual Design Cafe\Nature Renderer Demo\Realistic\Shaders\Lit Alpha Built-in.txt" />
-    <None Include="Assets\Assets\Hayq Art\Sci-Fi Environment and Vehicles Pack\Textures\Shaders\SH_Fire.shader" />
     <None Include="Assets\Flooded_Grounds\PostProcessing\Resources\Shaders\ColorGrading.cginc" />
     <None Include="Assets\Flooded_Grounds\Resources\TreeCreator\TreeCreatorLeavesOptimized.shader" />
     <None Include="Assets\Dynamic Snow System\Shaders\Tessellated Distance Blended.shader" />
@@ -259,11 +255,9 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
     <None Include="Assets\Flooded_Grounds\PostProcessing\Resources\Bluenoise64\LICENSE.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF.shader" />
-    <None Include="Assets\Assets\Hayq Art\Sci-Fi Environment and Vehicles Pack\Textures\Shaders\SH_Toon.shader" />
     <None Include="Assets\Flooded_Grounds\PostProcessing\Resources\Shaders\ACES.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader" />
     <None Include="Assets\Flooded_Grounds\PostProcessing\Resources\Shaders\MotionBlur.cginc" />
-    <None Include="Assets\Assets\Hayq Art\Sci-Fi Environment and Vehicles Pack\Textures\Shaders\Skybox.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\Flooded_Grounds\PostProcessing\Resources\Shaders\AmbientOcclusion.shader" />
     <None Include="Assets\Visual Design Cafe\Nature Renderer Demo\Realistic\Shaders\Lit Double-Sided Built-in.txt" />
@@ -271,11 +265,9 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc" />
     <None Include="Assets\Visual Design Cafe\Nature Renderer Demo\Realistic\Shaders\Lit Alpha Universal.txt" />
     <None Include="Assets\BreadcrumbAi\Examples\Demo\Materials\DoubleSided.shader" />
-    <None Include="Assets\ProceduralTerrainPainter\_Demo\Textures\_LICENSE.txt" />
     <None Include="Assets\Flooded_Grounds\PostProcessing\Resources\Shaders\ScreenSpaceRaytrace.cginc" />
     <None Include="Assets\Visual Design Cafe\Package Manager\VisualDesignCafe.Editor.PackageManager.dll" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc" />
-    <None Include="Assets\Assets\Hayq Art\Sci-Fi Environment and Vehicles Pack\Textures\Shaders\SH_Hologram.shader" />
     <None Include="Assets\Flooded_Grounds\PostProcessing\Resources\Shaders\Tonemapping.cginc" />
     <None Include="Assets\Flooded_Grounds\Content\Shaders\FG_PBR_TopBlend.shader" />
     <None Include="Assets\Flooded_Grounds\PostProcessing\Resources\Shaders\Fog.shader" />
@@ -307,7 +299,6 @@
     <None Include="Assets\Flooded_Grounds\PostProcessing\Resources\Shaders\TAA.shader" />
     <None Include="Assets\TENKOKU - DYNAMIC SKY\SHADERS\Tenkoku_cloud_sphere.shader" />
     <None Include="Assets\Visual Design Cafe\Nature Renderer Demo\Realistic\Shaders\Lit Simple Universal.txt" />
-    <None Include="Assets\ProceduralTerrainPainter\Shaders\Noise.hlsl" />
     <None Include="Assets\TENKOKU - DYNAMIC SKY\SHADERS\TenkokuBlur.shader" />
     <None Include="Assets\Flooded_Grounds\Resources\TreeCreator\TreeCreatorLeaves.shader" />
     <None Include="Assets\Flooded_Grounds\PostProcessing\Resources\Shaders\Blit.shader" />
@@ -325,7 +316,6 @@
     <None Include="Assets\Flooded_Grounds\Content\Shaders\FG_Triplanar_BumpSpec.shader" />
     <None Include="Assets\TENKOKU - DYNAMIC SKY\SHADERS\Tenkoku_FX_Fog.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
-    <None Include="Assets\ProceduralTerrainPainter\Shaders\Modifier.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
     <None Include="Assets\TENKOKU - DYNAMIC SKY\SHADERS\Tenkoku_sky_elek_scatter.shader" />
     <None Include="Assets\Flooded_Grounds\Content\Shaders\FG_Skybox_Rotating.shader" />
@@ -672,6 +662,14 @@
       <HintPath>Assets\Visual Design Cafe\Package Manager\VisualDesignCafe.Editor.Web.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Analytics.Tracker">
+      <HintPath>Library\PackageCache\com.unity.analytics@3.8.1\Unity.Analytics.Tracker.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Analytics.Editor">
+      <HintPath>Library\PackageCache\com.unity.analytics@3.8.1\Unity.Analytics.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="ReportGeneratorMerged">
       <HintPath>Library\PackageCache\com.unity.testtools.codecoverage@1.2.6\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
       <Private>False</Private>
@@ -708,8 +706,16 @@
       <HintPath>Assets\Visual Design Cafe\Nature Renderer\Plugins\VisualDesignCafe.Rendering.Instancing.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\Runtime\Newtonsoft.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="VisualDesignCafe.Editor.Events">
       <HintPath>Assets\Visual Design Cafe\Package Manager\VisualDesignCafe.Editor.Events.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Analytics.StandardEvents">
+      <HintPath>Library\PackageCache\com.unity.analytics@3.8.1\AnalyticsStandardEvents\Unity.Analytics.StandardEvents.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="netstandard">
@@ -1200,120 +1206,236 @@
       <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.46f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Services.Analytics.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Services.Analytics.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualEffectGraph.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualEffectGraph.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.Purchasing.Stores">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.Purchasing.Stores.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Postprocessing.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Burst.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Analytics.DataPrivacy">
+      <HintPath>Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Services.Core">
+      <HintPath>Library\ScriptAssemblies\Unity.Services.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Rider.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualEffectGraph.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualEffectGraph.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Flow">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Mathematics.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Mathematics.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
+      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Services.Core.Environments">
+      <HintPath>Library\ScriptAssemblies\Unity.Services.Core.Environments.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.HighDefinition.Config.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.HighDefinition.Config.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.Purchasing.SecurityCore">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityCore.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.TestTools.CodeCoverage.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.PlasticSCM.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.Purchasing.Codeless">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.Purchasing.Codeless.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.Purchasing">
+      <HintPath>Library\ScriptAssemblies\UnityEditor.Purchasing.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Services.Core.Analytics">
+      <HintPath>Library\ScriptAssemblies\Unity.Services.Core.Analytics.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VSCode.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.HighDefinition.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.HighDefinition.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.Purchasing">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.Purchasing.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.EditorCoroutines.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Burst">
+      <HintPath>Library\ScriptAssemblies\Unity.Burst.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.Purchasing.SecurityStub">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.Purchasing.SecurityStub.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.Advertisements">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.Advertisements.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Timeline.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Shared.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Shared.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.ShaderGraph.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Purchasing.Common">
+      <HintPath>Library\ScriptAssemblies\Purchasing.Common.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualStudio.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.Advertisements.Editor">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.Advertisements.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEditor.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Core">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Core.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Core.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Analytics">
+      <HintPath>Library\ScriptAssemblies\Analytics.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.Flow.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Timeline">
+      <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Services.Analytics">
+      <HintPath>Library\ScriptAssemblies\Unity.Services.Analytics.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
+      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Postprocessing.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.State.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Mathematics">
+      <HintPath>Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Searcher.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.VisualScripting.State">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.HighDefinition.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.HighDefinition.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="Unity.EditorCoroutines.Editor.csproj">
-      <Project>{E807354F-8F0D-F3BE-BFE0-8BE6A903BF87}</Project>
-      <Name>Unity.EditorCoroutines.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Postprocessing.Runtime.csproj">
-      <Project>{D900584A-B073-08F3-F45A-63517F207959}</Project>
-      <Name>Unity.Postprocessing.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Timeline.Editor.csproj">
-      <Project>{CACD095C-1DDC-929E-E37E-0E838C327C4F}</Project>
-      <Name>Unity.Timeline.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.VisualScripting.Shared.Editor.csproj">
-      <Project>{4744EE15-5892-90C1-D0BD-D1CB7290CEB7}</Project>
-      <Name>Unity.VisualScripting.Shared.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.VisualStudio.Editor.csproj">
-      <Project>{5E471B9C-903B-95F2-1B19-C7AE9A3E04C4}</Project>
-      <Name>Unity.VisualStudio.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{C9A63364-C3F5-2641-B00D-60E6E2EC53E8}</Project>
-      <Name>UnityEditor.UI</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.VisualScripting.Core.csproj">
-      <Project>{F5CA60C0-A8C8-A804-BFA5-6B5BA2B67A77}</Project>
-      <Name>Unity.VisualScripting.Core</Name>
-    </ProjectReference>
-    <ProjectReference Include="UnityEngine.UI.csproj">
-      <Project>{F108A61F-327E-2B90-E4E5-A2108F6BA032}</Project>
-      <Name>UnityEngine.UI</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.VisualScripting.Core.Editor.csproj">
-      <Project>{48DC7512-BEA1-6A50-47F5-5D805CDC041A}</Project>
-      <Name>Unity.VisualScripting.Core.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Rider.Editor.csproj">
-      <Project>{1E05E2DB-94BC-18AD-2EF1-EDF820733C0F}</Project>
-      <Name>Unity.Rider.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.2D.Sprite.Editor.csproj">
-      <Project>{9CC0F207-061D-D87C-3401-491CF45DEAE6}</Project>
-      <Name>Unity.2D.Sprite.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.VisualScripting.Flow.csproj">
-      <Project>{C2D42C39-D0B8-F6E4-BD91-B2CB09E8372A}</Project>
-      <Name>Unity.VisualScripting.Flow</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.VisualScripting.Flow.Editor.csproj">
-      <Project>{4B6282EF-F8BD-9102-92D6-7D66046A3049}</Project>
-      <Name>Unity.VisualScripting.Flow.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Timeline.csproj">
-      <Project>{FDA8C3C9-88E5-D91A-8A17-3C98AF683263}</Project>
-      <Name>Unity.Timeline</Name>
-    </ProjectReference>
-    <ProjectReference Include="sc.terrain.painter.runtime.csproj">
-      <Project>{530626A8-4B62-7B1D-51D1-2AEAC0375F1C}</Project>
-      <Name>sc.terrain.painter.runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj">
-      <Project>{34A6E590-D064-94B4-183A-841B69D0CD38}</Project>
-      <Name>Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.VisualScripting.SettingsProvider.Editor.csproj">
-      <Project>{493FE98A-B358-D7CE-7632-C6BD6F259CF4}</Project>
-      <Name>Unity.VisualScripting.SettingsProvider.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Performance.Profile-Analyzer.Editor.csproj">
-      <Project>{C5BFB3D7-4058-FB1E-6A6A-71EA867DD28A}</Project>
-      <Name>Unity.Performance.Profile-Analyzer.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.TestTools.CodeCoverage.Editor.csproj">
-      <Project>{A7273575-82F5-1F2B-96D6-078BC5E93CC7}</Project>
-      <Name>Unity.TestTools.CodeCoverage.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj">
-      <Project>{37F5E8A5-B144-6AE2-E4AA-677F20CC1CDC}</Project>
-      <Name>Unity.TestTools.CodeCoverage.Editor.OpenCover.Model</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.PlasticSCM.Editor.csproj">
-      <Project>{7A96E5E6-A9E2-039C-714F-5DDECA1A67ED}</Project>
-      <Name>Unity.PlasticSCM.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Postprocessing.Editor.csproj">
-      <Project>{CBC5DABB-5575-4534-5189-98EF51C52517}</Project>
-      <Name>Unity.Postprocessing.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.VisualScripting.State.Editor.csproj">
-      <Project>{2985A996-76C5-D292-0DB2-48EC8CAC829D}</Project>
-      <Name>Unity.VisualScripting.State.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.TextMeshPro.csproj">
-      <Project>{43D0967E-974B-A52C-DD51-6C7968F5784B}</Project>
-      <Name>Unity.TextMeshPro</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.TextMeshPro.Editor.csproj">
-      <Project>{772C4424-A426-A909-D8E5-D75A1C7AFCD4}</Project>
-      <Name>Unity.TextMeshPro.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.VisualScripting.State.csproj">
-      <Project>{73A34799-7266-0143-5308-B42AC2AB9DA3}</Project>
-      <Name>Unity.VisualScripting.State</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.VSCode.Editor.csproj">
-      <Project>{AA1EAEBB-C681-B8D4-6FA9-7D051A6AB69D}</Project>
-      <Name>Unity.VSCode.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="sc.terrain.painter.editor.csproj">
-      <Project>{ACB7AF72-98B5-54D5-F043-C2C22281B5C4}</Project>
-      <Name>sc.terrain.painter.editor</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

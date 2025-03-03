@@ -6,6 +6,7 @@ public class DisableUIAfterRandomTime : MonoBehaviour
     public GameObject uiElement;
     public float minTime = 1f;
     public float maxTime = 5f;
+    public GameObject player;
 
     private float randomTime;
     private float timer;
@@ -14,6 +15,7 @@ public class DisableUIAfterRandomTime : MonoBehaviour
     {
         randomTime = Random.Range(minTime, maxTime);
         timer = 0f;
+        
     }
 
     void Update()
@@ -31,6 +33,7 @@ public class DisableUIAfterRandomTime : MonoBehaviour
         if (uiElement != null)
         {
             uiElement.SetActive(false);
+            player.SetActive(true);
         }
     }
 }

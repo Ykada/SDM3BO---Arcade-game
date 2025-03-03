@@ -1,10 +1,11 @@
 ﻿using UnityEngine;
 using System.Collections;
+using Unity.VisualScripting;
 
 public class DemoPlayerControls : MonoBehaviour {
 
 	public Transform[] shotPos;
-	public Transform top, bottom;
+	public Transform top, bottom, schootanm;
 	public Rigidbody bulletPrefab, grenadePrefab;
 	public GameObject footsteps, hitSound, muzFlashPrefab, bloodPrefab, bloodPoolPrefab, gameOver;
 	
@@ -26,8 +27,8 @@ public class DemoPlayerControls : MonoBehaviour {
 				  Health;
 	
 	private AudioSource audioFootsteps, audioHitSound;
-	
-	private Animator animBottom, animTop;
+
+    private Animator animBottom, animTop, anim;
 	private string animRun = "Run";
 	private bool _stoppedMoving;
 	
@@ -109,7 +110,7 @@ public class DemoPlayerControls : MonoBehaviour {
 	IEnumerator Shoot(){
 		yield return new WaitForSeconds(0.0f);
 		ShootProjectile(bulletPrefab,shotPos[0],fireForce, fireSpread);
-		GameObject firstFlash = Instantiate(muzFlashPrefab, shotPos[0].position,shotPos[0].rotation) as GameObject;
+        GameObject firstFlash = Instantiate(muzFlashPrefab, shotPos[0].position,shotPos[0].rotation) as GameObject;
 		firstFlash.transform.parent = shotPos[0];
 		Destroy(firstFlash, 0.5f);
 		yield return new WaitForSeconds(0.1f);
@@ -117,6 +118,7 @@ public class DemoPlayerControls : MonoBehaviour {
 		GameObject secondFlash = Instantiate(muzFlashPrefab, shotPos[1].position,shotPos[1].rotation) as GameObject;
 		secondFlash.transform.parent = shotPos[1];
 		Destroy(secondFlash, 0.5f);
+		
 	}
 	
 	public void Bleed(Quaternion rot){
