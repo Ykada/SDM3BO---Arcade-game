@@ -61,18 +61,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ProceduralTerrainPainter\Runtime\Modifiers\Curvature.cs" />
-    <Compile Include="Assets\ProceduralTerrainPainter\Runtime\TerrainPainter.cs" />
     <Compile Include="Assets\ProceduralTerrainPainter\Runtime\Modifiers\Slope.cs" />
-    <Compile Include="Assets\ProceduralTerrainPainter\Runtime\TerrainChangeListener.cs" />
     <Compile Include="Assets\ProceduralTerrainPainter\Runtime\LayerSettings.cs" />
     <Compile Include="Assets\ProceduralTerrainPainter\Runtime\Modifiers\Modifier.cs" />
-    <Compile Include="Assets\ProceduralTerrainPainter\Runtime\Modifiers\TextureMask.cs" />
     <Compile Include="Assets\ProceduralTerrainPainter\Runtime\Utilities.cs" />
     <Compile Include="Assets\ProceduralTerrainPainter\Runtime\Modifiers\Direction.cs" />
-    <Compile Include="Assets\ProceduralTerrainPainter\Runtime\Attributes.cs" />
     <Compile Include="Assets\ProceduralTerrainPainter\Runtime\Modifiers\Height.cs" />
     <Compile Include="Assets\ProceduralTerrainPainter\Runtime\ModifierStack.cs" />
     <Compile Include="Assets\ProceduralTerrainPainter\Runtime\Modifiers\Noise.cs" />
+    <Compile Include="Assets\ProceduralTerrainPainter\Runtime\TerrainPainter.cs" />
+    <Compile Include="Assets\ProceduralTerrainPainter\Runtime\TerrainChangeListener.cs" />
+    <Compile Include="Assets\ProceduralTerrainPainter\Runtime\Modifiers\TextureMask.cs" />
+    <Compile Include="Assets\ProceduralTerrainPainter\Runtime\Attributes.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\ProceduralTerrainPainter\Runtime\sc.terrain.painter.runtime.asmdef" />
@@ -496,6 +496,22 @@
     </Reference>
     <Reference Include="VisualDesignCafe.Editor.Events">
       <HintPath>Assets\Visual Design Cafe\Package Manager\VisualDesignCafe.Editor.Events.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Analytics.StandardEvents">
+      <HintPath>Library\PackageCache\com.unity.analytics@3.8.1\AnalyticsStandardEvents\Unity.Analytics.StandardEvents.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Analytics.Tracker">
+      <HintPath>Library\PackageCache\com.unity.analytics@3.8.1\Unity.Analytics.Tracker.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\Runtime\Newtonsoft.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Analytics.Editor">
+      <HintPath>Library\PackageCache\com.unity.analytics@3.8.1\Unity.Analytics.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="netstandard">
