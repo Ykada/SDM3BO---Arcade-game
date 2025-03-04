@@ -143,10 +143,8 @@ public class DemoEnemyControls : MonoBehaviour {
 			if(!_pointScored){
 				if(enemyType == EnemyType.Special){
 					score.ScorePoint(50);
-				} else {
-					score.ScorePoint(15);
 				}
-				_pointScored = false;
+				_pointScored = true;
 			}
 			if(_canDropPickUp){
 				float rand = Random.value;

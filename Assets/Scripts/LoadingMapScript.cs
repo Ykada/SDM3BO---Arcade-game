@@ -3,7 +3,7 @@ using UnityEngine.UI;  // If you're working with UI elements like buttons, text,
 
 public class DisableUIAfterRandomTime : MonoBehaviour
 {
-    public GameObject uiElement;
+    public GameObject uiElement, menusound;
     public float minTime = 1f;
     public float maxTime = 5f;
     public GameObject player;
@@ -34,6 +34,7 @@ public class DisableUIAfterRandomTime : MonoBehaviour
         {
             uiElement.SetActive(false);
             player.SetActive(true);
+            menusound.SetActive(false);
         }
     }
 }

@@ -6,9 +6,8 @@ public class DemoSpawnerControl : MonoBehaviour {
 	public Transform[] spawners;
 	public GameObject enemyMeleePrefab, enemyRangedPrefab, enemySpecialPrefab;
 	[HideInInspector]public int enemyCount, specialEnemyCount;
-	
-	private const int maxEnemyCount = 35;
-	private float spawnMeleeNext = 0.0f;
+    public float maxEnemyCount = 10f;
+    private float spawnMeleeNext = 0.0f;
 	private float spawnMeleeRate = 1.0f;
 	
 	void Update () {
