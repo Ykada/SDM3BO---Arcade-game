@@ -60,10 +60,10 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.46f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Library\PackageCache\com.unity.editorcoroutines@1.0.0\Editor\EditorWindowCoroutineExtension.cs" />
-    <Compile Include="Library\PackageCache\com.unity.editorcoroutines@1.0.0\Editor\EditorCoroutineUtility.cs" />
     <Compile Include="Library\PackageCache\com.unity.editorcoroutines@1.0.0\Editor\EditorWaitForSeconds.cs" />
     <Compile Include="Library\PackageCache\com.unity.editorcoroutines@1.0.0\Editor\EditorCoroutine.cs" />
+    <Compile Include="Library\PackageCache\com.unity.editorcoroutines@1.0.0\Editor\EditorWindowCoroutineExtension.cs" />
+    <Compile Include="Library\PackageCache\com.unity.editorcoroutines@1.0.0\Editor\EditorCoroutineUtility.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Library\PackageCache\com.unity.editorcoroutines@1.0.0\Editor\Unity.EditorCoroutines.Editor.asmdef" />
@@ -429,6 +429,14 @@
       <HintPath>Assets\Visual Design Cafe\Package Manager\VisualDesignCafe.Editor.Web.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Analytics.Tracker">
+      <HintPath>Library\PackageCache\com.unity.analytics@3.8.1\Unity.Analytics.Tracker.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Analytics.Editor">
+      <HintPath>Library\PackageCache\com.unity.analytics@3.8.1\Unity.Analytics.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="ReportGeneratorMerged">
       <HintPath>Library\PackageCache\com.unity.testtools.codecoverage@1.2.6\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
       <Private>False</Private>
@@ -485,12 +493,20 @@
       <HintPath>Assets\Visual Design Cafe\Nature Renderer\Plugins\VisualDesignCafe.Rendering.Instancing.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\Runtime\Newtonsoft.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="VisualDesignCafe.Editor.Events">
       <HintPath>Assets\Visual Design Cafe\Package Manager\VisualDesignCafe.Editor.Events.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Analytics.StandardEvents">
+      <HintPath>Library\PackageCache\com.unity.analytics@3.8.1\AnalyticsStandardEvents\Unity.Analytics.StandardEvents.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="nunit.framework">

@@ -98,8 +98,8 @@
     <Compile Include="Library\PackageCache\com.unity.visualeffectgraph@14.0.11\Runtime\Utilities\VFXRuntimeResources.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualeffectgraph@14.0.11\Runtime\Utilities\PropertyBinding\Implementation\VFXInputKeyBinder.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualeffectgraph@14.0.11\Runtime\Utilities\PropertyBinding\Implementation\VFXSphereBinder.cs" />
-    <Compile Include="Library\PackageCache\com.unity.visualeffectgraph@14.0.11\Runtime\Types\VFXTypes.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualeffectgraph@14.0.11\Runtime\CustomSpawners\IncrementStripIndexOnStart.cs" />
+    <Compile Include="Library\PackageCache\com.unity.visualeffectgraph@14.0.11\Runtime\Types\VFXTypes.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualeffectgraph@14.0.11\Runtime\Utilities\PropertyBinding\Implementation\VFXInputMouseBinder.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualeffectgraph@14.0.11\Runtime\Utilities\EventBinding\Implementation\VFXRigidBodyCollisionEventBinder.cs" />
     <Compile Include="Library\PackageCache\com.unity.visualeffectgraph@14.0.11\Runtime\CustomSpawners\SetSpawnTime.cs" />

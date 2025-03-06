@@ -64,8 +64,8 @@
     <Compile Include="Library\PackageCache\com.unity.services.core@1.12.5\Editor\Core\Environments\Client\Http\IsolatedJsonConvert.cs" />
     <Compile Include="Library\PackageCache\com.unity.services.core@1.12.5\Editor\Core\Environments\Client\Models\UnityOrganizationMemberV1.cs" />
     <Compile Include="Library\PackageCache\com.unity.services.core@1.12.5\Editor\Core\Environments\Client\Models\UnityGetEnvironments200Response.cs" />
-    <Compile Include="Library\PackageCache\com.unity.services.core@1.12.5\Editor\Core\Environments\Client\Models\UnityGetUserPermissions200Response.cs" />
     <Compile Include="Library\PackageCache\com.unity.services.core@1.12.5\Editor\Core\Environments\Analytics\EnvironmentAnalyticsSender.cs" />
+    <Compile Include="Library\PackageCache\com.unity.services.core@1.12.5\Editor\Core\Environments\Client\Models\UnityGetUserPermissions200Response.cs" />
     <Compile Include="Library\PackageCache\com.unity.services.core@1.12.5\Editor\Core\Environments\ValidationResult.cs" />
     <Compile Include="Library\PackageCache\com.unity.services.core@1.12.5\Editor\Core\Environments\Client\Models\UnityUpdateOrganizationRequest.cs" />
     <Compile Include="Library\PackageCache\com.unity.services.core@1.12.5\Editor\Core\Environments\Client\ErrorMitigation\RetryPolicyConfig.cs" />
@@ -515,6 +515,14 @@
       <HintPath>Assets\Visual Design Cafe\Package Manager\VisualDesignCafe.Editor.Web.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Unity.Analytics.Tracker">
+      <HintPath>Library\PackageCache\com.unity.analytics@3.8.1\Unity.Analytics.Tracker.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.Analytics.Editor">
+      <HintPath>Library\PackageCache\com.unity.analytics@3.8.1\Unity.Analytics.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="ReportGeneratorMerged">
       <HintPath>Library\PackageCache\com.unity.testtools.codecoverage@1.2.6\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
       <Private>False</Private>
@@ -571,6 +579,10 @@
       <HintPath>Assets\Visual Design Cafe\Nature Renderer\Plugins\VisualDesignCafe.Rendering.Instancing.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\Runtime\Newtonsoft.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
       <Private>False</Private>
@@ -581,18 +593,6 @@
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
       <HintPath>Library\PackageCache\com.unity.analytics@3.8.1\AnalyticsStandardEvents\Unity.Analytics.StandardEvents.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>Library\PackageCache\com.unity.analytics@3.8.1\Unity.Analytics.Tracker.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1\Runtime\Newtonsoft.Json.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.Analytics.Editor">
-      <HintPath>Library\PackageCache\com.unity.analytics@3.8.1\Unity.Analytics.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="nunit.framework">

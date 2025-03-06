@@ -156,8 +156,8 @@
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.11\Runtime\Debugging\Prefabs\Scripts\DebugUIHandlerObject.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.11\Runtime\Debugging\IDebugDisplaySettings.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.11\Runtime\PostProcessing\LensFlareDataSRP.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.11\Runtime\XR\XRLayout.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.11\Runtime\Lighting\ProbeVolume\ProbeReferenceVolume.Debug.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.11\Runtime\XR\XRLayout.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.11\Runtime\Common\CommonStructs.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.11\Runtime\Utilities\DelegateUtility.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.11\Runtime\XR\XRSystem.cs" />
@@ -173,8 +173,8 @@
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.11\Runtime\Common\ConstantBuffer.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.11\Runtime\XR\XRGraphicsAutomatedTests.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.11\Runtime\Textures\RTHandles.cs" />
-    <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.11\Runtime\Volume\VolumeComponent.EditorOnly.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.11\Runtime\Debugging\Prefabs\Scripts\DebugUIHandlerField.cs" />
+    <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.11\Runtime\Volume\VolumeComponent.EditorOnly.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.11\Runtime\Debugging\IVolumeDebugSettings.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.11\Runtime\Debugging\Prefabs\Scripts\DebugUIHandlerPanel.cs" />
     <Compile Include="Library\PackageCache\com.unity.render-pipelines.core@14.0.11\Runtime\Common\IVirtualTexturingEnabledRenderPipeline.cs" />
