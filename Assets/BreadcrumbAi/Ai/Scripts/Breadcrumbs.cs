@@ -80,7 +80,7 @@ namespace BreadcrumbAi{
 				newObj.name = "Breadcrumb";
 				newObj.AddComponent<BoxCollider>();
 				newObj.GetComponent<BoxCollider>().isTrigger = true;
-				newObj.layer = LayerMask.NameToLayer("Breadcrumb");
+
 				try{
 					newObj.tag = "Breadcrumb";
 				} catch(UnityException ex){
