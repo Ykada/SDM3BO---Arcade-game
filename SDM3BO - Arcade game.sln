@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{5C2C49F3-359E-DF3D-E572-61F8D3ED05C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sc.terrain.painter.runtime", "sc.terrain.painter.runtime.csproj", "{C076D5A0-3036-0EBF-A42B-A54D9A1EA543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sc.terrain.painter.editor", "sc.terrain.painter.editor.csproj", "{6EC2EE1F-342D-BC2D-8912-1992B97D4AD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,14 @@ Global
 		{5C2C49F3-359E-DF3D-E572-61F8D3ED05C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C2C49F3-359E-DF3D-E572-61F8D3ED05C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C2C49F3-359E-DF3D-E572-61F8D3ED05C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C076D5A0-3036-0EBF-A42B-A54D9A1EA543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C076D5A0-3036-0EBF-A42B-A54D9A1EA543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C076D5A0-3036-0EBF-A42B-A54D9A1EA543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C076D5A0-3036-0EBF-A42B-A54D9A1EA543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EC2EE1F-342D-BC2D-8912-1992B97D4AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC2EE1F-342D-BC2D-8912-1992B97D4AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC2EE1F-342D-BC2D-8912-1992B97D4AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC2EE1F-342D-BC2D-8912-1992B97D4AD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
