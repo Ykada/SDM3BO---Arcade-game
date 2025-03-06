@@ -179,6 +179,7 @@
     <Compile Include="Assets\BreadcrumbAi\Examples\Demo\Scripts\DemoDestroyExplosion.cs" />
     <Compile Include="Assets\Cold War Weapons\AK74M\Demo\CameraRotate.cs" />
     <Compile Include="Assets\BreadcrumbAi\Examples\Demo\Scripts\DemoTidySpit.cs" />
+    <Compile Include="Assets\recoilscript.cs" />
     <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\TenkokuModule.cs" />
     <Compile Include="Assets\Flooded_Grounds\PostProcessing\Runtime\Models\AntialiasingModel.cs" />
     <Compile Include="Assets\TENKOKU - DYNAMIC SKY\SCRIPTS\ParticleStarfieldHandler.cs" />
